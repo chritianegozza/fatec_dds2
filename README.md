@@ -74,7 +74,7 @@ Obter todas as tarefas (GET):
 curl http://localhost:8080/api/tasks
 
 
-## Contribuição
+## tContribuição
 Se você encontrar problemas ou melhorias possíveis, sinta-se à vontade para abrir um problema ou enviar uma solicitação pull.
 
 ## Licença
@@ -85,7 +85,7 @@ Este projeto está licenciado sob a Licença MIT.
 ![Christiane Gozza](https://avatars.githubusercontent.com/u/72118415?v=4)
 *Desenvolvedor Sênior*
 
-![Flávia ](https://exemplo.com/imagens/jane_smith.jpg)
+![Flávia ](https://avatars.githubusercontent.com/u/147008248?v=4)
 *Arquiteta de Software*
 
 ![Roberto Tadeu ](https://avatars.githubusercontent.com/u/97703445?v=4)
