@@ -90,3 +90,13 @@ Este projeto está licenciado sob a Licença MIT.
 
 ![Roberto Tadeu ](https://avatars.githubusercontent.com/u/97703445?v=4)
 *Engenheiro de QA*
+
+<table>
+  <tr>
+         <td align="center"><a href="https://github.com/chritianegozza"><img src="https://avatars.githubusercontent.com/u/72118415?v=4" width="100px;" alt=""/><br /><sub><b>Christiane Gozza</b></sub></a><br /><a href="https://github.com/chritianegozza">👩🏻‍💻</a></td>
+         <br>
+         <td align="center"><a href="https://github.com/flavia45"><img src="https://avatars.githubusercontent.com/u/147008248?v=4" width="100px;" alt=""/><br /><sub><b>Flávia</b></sub></a><br /><a href="https://github.com/flavia45">👩🏻‍💻</a></td> 
+        <br>
+         <td align="center"><a href="https://github.com/robconceicao"><img src="https://avatars.githubusercontent.com/u/97703445?v=4" width="100px;" alt=""/><br /><sub><b>Roberto Tadeu</b></sub></a><br /><a href="https://github.com/robconceicao">👩🏻‍💻</a></td> 
+    </tr>
+</table>
