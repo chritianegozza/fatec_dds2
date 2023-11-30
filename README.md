@@ -82,15 +82,6 @@ Este projeto está licenciado sob a Licença MIT.
 
 ### Imagens da Equipe
 
-![Christiane Gozza](https://avatars.githubusercontent.com/u/72118415?v=4)
-*Desenvolvedor Sênior*
-
-![Flávia ](https://avatars.githubusercontent.com/u/147008248?v=4)
-*Arquiteta de Software*
-
-![Roberto Tadeu ](https://avatars.githubusercontent.com/u/97703445?v=4)
-*Engenheiro de QA*
-
 <table>
   <tr>
          <td align="center"><a href="https://github.com/chritianegozza"><img src="https://avatars.githubusercontent.com/u/72118415?v=4" width="100px;" alt=""/><br /><sub><b>Christiane Gozza</b></sub></a><br /><a href="https://github.com/chritianegozza">👩🏻‍💻</a></td>
